@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vansh Rana
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Web Development, DSA.
 - 📫 How to reach me, Linkedin - https://www.linkedin.com/in/vansh-rana-a45100326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 <!---
